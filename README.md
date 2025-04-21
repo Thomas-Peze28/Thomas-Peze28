@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Thomas-Peze28
+- 👀 I’m interested in tech, car, plant and more ...
+- 🌱 I’m currently learning C
+- 🧑🏻‍🎓 Student at Epitech Lille
+- 📫 How to reach me thomas1.peze@epitech.eu
+- ⚡ Languages : C, Python, HTML, CSS, SQL
