@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C
 - 🧑🏻‍🎓 Student at Epitech Lille
 - 📫 How to reach me thomas1.peze@epitech.eu
-- ⚡ Languages : C, Python, HTML, CSS, SQL
+- ⚡ Languages : C, Python, Javascript, HTML, CSS, SQL
